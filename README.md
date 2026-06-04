@@ -262,10 +262,9 @@ Readme · MD
 ### 📬 联系我
  
 <div align="center">
-[![Kaggle](https://img.shields.io/badge/Kaggle-主页-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-主页-181717?style=flat-square&logo=github)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-联系-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/)
- 
+  <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 ---
  
